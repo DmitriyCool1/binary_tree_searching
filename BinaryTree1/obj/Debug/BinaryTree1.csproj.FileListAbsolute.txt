@@ -1,0 +1,8 @@
+C:\Users\dimak\source\repos\BinaryTree1\BinaryTree1\bin\Debug\BinaryTree1.exe.config
+C:\Users\dimak\source\repos\BinaryTree1\BinaryTree1\bin\Debug\BinaryTree1.exe
+C:\Users\dimak\source\repos\BinaryTree1\BinaryTree1\bin\Debug\BinaryTree1.pdb
+C:\Users\dimak\source\repos\BinaryTree1\BinaryTree1\obj\Debug\BinaryTree1.csproj.AssemblyReference.cache
+C:\Users\dimak\source\repos\BinaryTree1\BinaryTree1\obj\Debug\BinaryTree1.csproj.SuggestedBindingRedirects.cache
+C:\Users\dimak\source\repos\BinaryTree1\BinaryTree1\obj\Debug\BinaryTree1.csproj.CoreCompileInputs.cache
+C:\Users\dimak\source\repos\BinaryTree1\BinaryTree1\obj\Debug\BinaryTree1.exe
+C:\Users\dimak\source\repos\BinaryTree1\BinaryTree1\obj\Debug\BinaryTree1.pdb
